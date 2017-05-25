@@ -1,0 +1,19 @@
+{
+  "name": "vaeRain",
+  "version": "0.0.1",
+  "description": "rain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rain-rain/rain.git"
+  },
+  "author": "rain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rain-rain/rain/issues"
+  },
+  "homepage": "https://github.com/rain-rain/rain#readme"
+}
